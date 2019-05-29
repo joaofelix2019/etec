@@ -1,5 +1,5 @@
 # Etec
-Curso de informática para Internet
+Curso de Tecnico em Informática para Internet
 
 Etec Dr. Carolino da Motta e Silva
 
